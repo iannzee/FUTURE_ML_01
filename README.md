@@ -37,7 +37,7 @@ FUTURE_ML_01/
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/your-username/FUTURE_ML_01.git](https://github.com/your-username/FUTURE_ML_01.git)
+git clone [https://github.com/your-username/FUTURE_ML_01.git](https://github.com/iannzee/FUTURE_ML_01.git)
 cd FUTURE_ML_01
 ```[cite: 1]
 
